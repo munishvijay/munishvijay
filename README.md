@@ -1,29 +1,30 @@
-## Hi there 👋
+# Munish Vijay
 
-I'm Munish Vijay, an aspiring developer focused on Python, AI, and computer vision. I enjoy building practical projects that solve real-world problems and learning by creating.
+AI & Computer Vision enthusiast focused on building practical, real-world solutions using Python, OpenCV, and modern machine learning workflows.
 
-### 🔭 Current focus
-- Building AI-powered computer vision projects
-- Exploring OpenCV, YOLO, and object detection
-- Learning software engineering practices and deployment
+## About Me
+I am a developer with a strong interest in computer vision, object detection, and AI-driven automation. I enjoy turning ideas into working systems and continuously improving my engineering skills through hands-on projects.
 
-### 🧠 Skills
+## Core Skills
 - Python
 - OpenCV
 - Computer Vision
 - Object Detection
+- YOLO
 - AI / ML Fundamentals
+- Problem Solving
 
-### 🚀 Featured project
-- [AI-Based Cement Bag Counter System](https://github.com/munishvijay/AI-Based-Cement-Bag-Counter-System)  
-  Real-time bag detection and counting using Python, OpenCV, YOLO, and ByteTrack.
+## Featured Project
+### [AI-Based Cement Bag Counter System](https://github.com/munishvijay/AI-Based-Cement-Bag-Counter-System)
+Real-time detection and counting of cement bags on conveyor belts using Python, OpenCV, YOLO, and ByteTrack.
 
-### 🌱 Learning
-- Deep learning and model optimization
-- Real-world AI applications
-- Deploying projects in production-ready environments
+## Current Focus
+- Building intelligent vision-based systems
+- Exploring object detection and tracking pipelines
+- Learning deployment-ready AI workflows
+- Strengthening software engineering fundamentals
 
-### 📫 Connect
+## Connect
 - GitHub: [munishvijay](https://github.com/munishvijay)
 
-> Building, learning, and growing one project at a time.
+> Building meaningful technology with code, creativity, and continuous learning.
